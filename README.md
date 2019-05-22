@@ -11,6 +11,6 @@ inceptionV3 , web_app (web page unfishined)
 
 3.click 'reco' button to get result
 ## Run
-1. python test.py
+1. python main.py
 
 2. web: 127.0.0.1:5000
